@@ -1,1 +1,2 @@
 # company_president
+It is a machine learning model made by learning pictures of the founders of the top 500 companies in Korea. You have learned your data in a 'classified' manner using the teachable machine provided by Google. It is a fun-oriented website where you can find out the probability of success if you enter a picture of a user and start a business. It was distributed using js and only implemented the function because it was a demo version.
